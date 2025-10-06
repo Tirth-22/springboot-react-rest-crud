@@ -1,4 +1,4 @@
 ﻿# springboot-react-rest-crud
 
 ## This project project demonstrating CRUD operations. Spring Boot provides RESTful APIs, while React.js consumes these APIs for a responsive frontend.
-##### (my step-2 on spring boot is connect React.js frontend with RESTful API.)
+
